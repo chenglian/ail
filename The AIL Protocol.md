@@ -142,3 +142,5 @@ Initial testing suggests significant efficiency gains when comparing AIL to stan
 ---
 
 **End of Specification**
+
+See also: [VIL Examples](https://github.com/chenglian/ail/blob/main/Examples.md)
