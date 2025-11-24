@@ -82,6 +82,6 @@ Formal languages are precise, but rigid.
 
 AIL attempts to chart a middle ground:
 
-** A lightweight “latent language” that sits closer to how LLMs already think.
+> **A lightweight “latent language” that sits closer to how LLMs already think.**
 
 If successful, AIL could become a universal interface layer for AI systems, enabling more predictable, efficient, and controllable model interactions.
