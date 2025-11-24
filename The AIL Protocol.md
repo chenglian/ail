@@ -102,9 +102,9 @@ Used for iterative improvement of an idea.
 
 ---
 
-## 5. System Kernel (Installation)
+## 5. System Kernel (Optional)
 
-To enable any LLM to process AIL natively, prepend this block to the **System Instructions** or **Custom Instructions**.
+Optionally prepend this block to the **System Instructions** or **Custom Instructions**.
 
 ```text
 ### SYSTEM INSTRUCTION: AIL_PROTOCOL_V1 ###
