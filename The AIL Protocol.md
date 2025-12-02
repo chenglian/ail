@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0 (Draft Standard)  
 **Date:** November 2025  
-**Classification:** Prompt Engineering / Human-Computer Interaction  
+**Classification:** Context Engineering / Human-Computer Interaction  
 
 ---
 
